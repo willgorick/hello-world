@@ -1,3 +1,3 @@
 # hello-world
 My first repository
-This is my first github project, and I'm still learning the ropes.
+Doing this to learn git for advanced SW class.
